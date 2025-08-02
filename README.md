@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Block Clicker Game
 
 ## How to Play
@@ -62,6 +61,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Fork of the original "Кликалка" game
 
 Developed by [Vadim Ponomaryov](https://vk.com/ehot_ha_dpakohe) in C++
-=======
-# block-clicker
->>>>>>> f52034f1496447b875af9a68d4441432e119f243
+
