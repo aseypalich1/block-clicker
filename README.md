@@ -1,6 +1,5 @@
+<<<<<<< HEAD
 # Block Clicker Game
-
-A web-based block clicking game built with Next.js and TS, neon-themed and smooth animations.
 
 ## How to Play
 
@@ -17,11 +16,7 @@ Good luck!
 
 ## Tech Stack
 
-- **Next.js 14** - React framework with App Router
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Styling
-- **Framer Motion** - Animations
-- **React** - UI library
+Next.js 14, TypeScript, Tailwind CSS, Framer Motion, React
 
 ## Getting Started
 
@@ -67,3 +62,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Fork of the original "Кликалка" game
 
 Developed by [Vadim Ponomaryov](https://vk.com/ehot_ha_dpakohe) in C++
+=======
+# block-clicker
+>>>>>>> f52034f1496447b875af9a68d4441432e119f243
